@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RFIDTagAPI", "RFIDTagAPI.csproj", "{0C7EEB60-892D-42F6-BAE5-E3E14AB5DD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{B328203F-B397-4127-8A00-7FC2CF8C44C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7EEB60-892D-42F6-BAE5-E3E14AB5DD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7EEB60-892D-42F6-BAE5-E3E14AB5DD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7EEB60-892D-42F6-BAE5-E3E14AB5DD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7EEB60-892D-42F6-BAE5-E3E14AB5DD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B328203F-B397-4127-8A00-7FC2CF8C44C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B328203F-B397-4127-8A00-7FC2CF8C44C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B328203F-B397-4127-8A00-7FC2CF8C44C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B328203F-B397-4127-8A00-7FC2CF8C44C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D1CD42-6D73-4726-8F74-E57E74EB84CA}
+	EndGlobalSection
+EndGlobal
